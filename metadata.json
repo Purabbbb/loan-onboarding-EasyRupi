@@ -1,0 +1,7 @@
+{
+  "name": "EasyRupi Onboarding",
+  "description": "A seamless, multi-step fintech onboarding flow for business loans.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
